@@ -4,7 +4,7 @@ Add your name below next to a number using a pull request from your fork of [thi
 
 1. Daffe
 2. My name is Mulugeta
-3. X
+3. Precious
 4. X
 5. X
 6. X
